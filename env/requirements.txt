@@ -1,0 +1,11 @@
+Babel
+dash
+dash-bootstrap-components
+dash-daq
+meteostat
+pandas
+pandas-stubs
+plotly
+python-dateutil
+python-i18n
+requests
